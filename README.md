@@ -9,9 +9,9 @@ Final Project: link to your GitHub repository
 Duration: 4 weeks
 Effort: 6 hours per week
 
-Genome Sequencing (Bioinformatics II)
+**Genome Sequencing (Bioinformatics II)**
 
-About this Course
+**About this Course**
 You may have heard a lot about genome sequencing and its potential to usher in an era of personalized medicine, but what does it mean to sequence a genome?
 
 Biologists still cannot read the nucleotides of an entire genome as you would read a book from beginning to end. However, they can read short pieces of DNA. In this course, we will see how graph theory can be used to assemble genomes from these short pieces. We will further learn about brute force algorithms and apply them to sequencing mini-proteins called antibiotics.
@@ -22,16 +22,16 @@ In the second half of the course, we will discuss antibiotics, a topic of great 
 
 Finally, you will learn how to apply popular bioinformatics software tools to sequence the genome of a deadly Staphylococcus bacterium that has acquired antibiotics resistance.
 
-SKILLS YOU WILL GAIN
+**SKILLS YOU WILL GAIN**
 (1) Algorithms
 (2) Python Programming
 (3) Whole Genome Sequencing
 (4) Dynamic Programming
 
-SYLLABUS
+**SYLLABUS**
 Genome Sequencing (Bioinformatics II)
 
-Introduction to Genome Sequencing
+**Introduction to Genome Sequencing**
 <p> Welcome to class! </p>
 <p> This course will focus on two questions at the forefront of modern computational biology, along with the algorithmic approaches we will use to solve them in parentheses: <p/><ol><li>
 Weeks 1-2: How Do We Assemble Genomes? (<i>Graph Algorithms</i>)</li><li>How Do We Sequence Antibiotics? (<i>Brute Force Algorithms</i>)</li></ol>
