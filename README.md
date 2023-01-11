@@ -1,7 +1,7 @@
-# Basic-Bioinformatics-Bioinformatics-1-BIO-4312d-
-A repository containing all the file projects that I have for the Basic Bioinformatics (Bioinformatics 1) (BIO 4312d)
+# Bioinformatics 2 (COMP 4312a)
+A repository containing all the file projects that I have for the Bioinformatics 2 (COMP 4312a)
 
-Link to this card: https://trello.com/c/g4W0b5Km
+Link to this card: https://trello.com/c/SuuW7sme
 
 Section: Bioinformatics
 Course: Bioinformatics 2 | Coursera
